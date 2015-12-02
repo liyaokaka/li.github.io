@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "<how to be success> of notes"
+title: "how to be success "
 tagline: ""
 description: "读书笔记"
 category: 学习笔记
