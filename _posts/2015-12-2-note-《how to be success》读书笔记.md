@@ -28,10 +28,7 @@ last_updated:
 
 ----------
 
-补充目录的图
-
-----------
-补充各章节后的清单
+目录的图,各章节后的清单,皆在文末
 
 ----------
 
@@ -45,7 +42,7 @@ last_updated:
 
 一，识别和反思四种人际交往方式
 
-此处补充图片P13
+http://7xojod.com1.z0.glb.clouddn.com/如何成功之人的类型.jpg
 
 ----------
 二，仿效——重现你的所见所闻
@@ -80,8 +77,8 @@ last_updated:
 -三，提出【正确】的问题
  - 提问帮助我发现对方的：思想；需要；感觉；看法；愿望；目标。即【知道对方脑子里想什么】 
  - 问题有两种：【开放型】、【封闭型】
- - 此处补充图片P55 
  - 每个人最喜欢的话题是谈论他们自己
+http://7xojod.com1.z0.glb.clouddn.com/如何成功之问题类型.jpg
 
 ### 如何让人习惯性地同意你的看法 ###
 > 让某人越多地对你说【是】，这个人就越可能习惯性地顺从你的要求；最好策略：不断地问某人一系列他只能回答【是】的问题，必须避免提可能导致回答【不是】的问题。
@@ -105,7 +102,7 @@ last_updated:
 > 想说服某人做某事，找到这个人愿意干的理由，也可创造给他。
 - 既成事实法
 
-待补充
+结合谈判一领域
 
 ----------
 
@@ -211,4 +208,36 @@ last_updated:
      - 直截了当。
      - 先深入分析读者的需要开始：功名利禄等
      - 然后与读者取得同步，再引导读者
-     - 读者与自己各自要采取的行动         
+     - 读者与自己各自要采取的行动     
+
+----------
+清单：
+
+1. 迷人：能迅速地实际上给任何人以深刻印象； 
+2. 推销技巧：能平和地与人谈判、影响和说服他人；
+3. 引人注目的技巧：能通过行动和人与人之间的交往保持领先地位；
+4. 演说技巧：能够发表给人以深刻印象的演说
+5. 主持技巧，像马戏团领班：能主持富有成果的会议；
+6. 写作技巧：能写简明扼要的备忘录
+![](http://7xojod.com1.z0.glb.clouddn.com/如何成功之最终清单.jpg)
+![](http://7xojod.com1.z0.glb.clouddn.com/如何成功之留下好印象0.jpg) 
+![](http://7xojod.com1.z0.glb.clouddn.com/如何成功之留下好印象.jpg)
+![](http://7xojod.com1.z0.glb.clouddn.com/如何成功之如何影响别人0.jpg)
+![](http://7xojod.com1.z0.glb.clouddn.com/如何成功之如何影响别人1.jpg)
+![](http://7xojod.com1.z0.glb.clouddn.com/如何成功之引人注目1.jpg)
+![](http://7xojod.com1.z0.glb.clouddn.com/如何成功之演讲清单0.jpg)
+![](http://7xojod.com1.z0.glb.clouddn.com/如何成功之演讲清单.jpg)
+![](http://7xojod.com1.z0.glb.clouddn.com/如何成功之会议清单1.jpg)
+![](http://7xojod.com1.z0.glb.clouddn.com/如何成功之会议清单2.jpg)
+![](http://7xojod.com1.z0.glb.clouddn.com/如何成功之商务写作.jpg)
+![](http://7xojod.com1.z0.glb.clouddn.com/如何成功之商务写作0.jpg)
+
+
+----------
+目录
+![](http://7xojod.com1.z0.glb.clouddn.com/目录.jpg)
+![](http://7xojod.com1.z0.glb.clouddn.com/目录0.jpg)
+![](http://7xojod.com1.z0.glb.clouddn.com/目录1.jpg)
+![](http://7xojod.com1.z0.glb.clouddn.com/目录2.jpg)
+![](http://7xojod.com1.z0.glb.clouddn.com/目录3.jpg)
+![](http://7xojod.com1.z0.glb.clouddn.com/目录末.jpg)
