@@ -4,7 +4,7 @@ title: "自慢II"
 tagline: ""
 description: "自慢II的一些笔记"
 category: 学习笔记
-tags: [learning, note, biography]
+tags: [ note, biography]
 last_updated: 
 ---
 
