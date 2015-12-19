@@ -1,3 +1,12 @@
+---
+layout: post
+title: "亨利四世"
+tagline: ""
+description: "原文对比翻译，梁实秋"
+category: 学习笔记
+tags: [英汉,]
+last_updated: 
+---
 So shaken as we are, so wan with care,
 
 Find we a time for frighted peace to pant, 
@@ -72,3 +81,41 @@ What yesternight our council did decree
 In forwarding this dear expedience.
 
 这原是我一年前的打算，用不着再告诉你们我是愿意去的。我们不是为了这事才来开会的。那么你告诉我，我的好兄弟威斯摩兰，为了促进这回重要的急事，枢密院昨晚有什么决定。
+
+----------
+### WESTMORELAND  ###
+My liege, this haste was hot in question,
+
+And many limits of the charge set down
+
+But yesternight: when all athwart there came
+
+A post from Wales loaden with heavy news;
+
+Whose worst was, that the noble Mortimer,
+
+Leading the men of Herefordshire to fight
+
+Against the irregular and wild Glendower,
+
+Was by the rude hands of that Welshman taken,
+
+A thousand of his people butchered;
+
+Upon whose dead corpse there was such misuse,
+
+Such beastly shameless transformation,
+
+By those Welshwomen done as may not be
+
+Without much shame retold or spoken of.
+
+陛下，这紧急的事曾经热烈研讨。昨晚颁发了许多命令给各将领；不料这时节从威尔斯来了探报，带着噩耗；最坏的是，高贵的毛提摩，率领着海福县的人马去征讨那狂悖不法的格兰道渥，竟被这威尔斯人生擒了去，部众一千人都被杀戮了；威尔斯女人对这些尸体还加以摧残，其惨无人道，说起来都不能不觉得耻辱。
+
+### KING HENRY IV  ###
+It seems then that the tidings of this broil
+
+Brake off our business for the Holy Land.
+
+这战事的消息似乎是阻扰了我们到圣地去的计划了。
+
